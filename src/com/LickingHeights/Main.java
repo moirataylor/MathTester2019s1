@@ -6,6 +6,10 @@ public class Main {
         String firstWord;
         String secondWord;
 
+        firstWord = "dog";
+        secondWord = "house";
+        
+
 
 
 
